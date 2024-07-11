@@ -1,0 +1,51 @@
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f1f1f1;
+        }
+        h1 {
+            font-size: 50px;
+            color: #333;
+            margin-top: 100px;
+        }
+        p {
+            font-size: 20px;
+            color: #665;
+        }
+        a {
+            text-decoration: none;
+            color: #333;
+        }
+        a:hover {
+            color: #665;
+        }
+        .social {
+            margin-top: 20px;
+        }
+        .social a {
+            margin: 0 10px;
+        }
+        .social a img {
+            width: 40px;
+            height: 40px;
+        }
+           .logo {
+              position: absolute;
+              top: 10px;
+              left: 10px;
+              padding: 10px;
+              width: 100px; /* Add a width value */
+              height: 100px; /* Add a height value */
+           }
+        .footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background-color: #000000;
+            color: #fff;
+            padding: 10px;
+        }
+           
